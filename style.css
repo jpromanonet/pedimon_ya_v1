@@ -59,3 +59,46 @@ header {
     border-radius: 10px;
     margin: 15px 0;
 }
+
+.side {
+    margin: auto;
+}
+
+.side img {
+    width: 400px;
+}
+
+.about {
+    background-color: #0032bc;
+    padding: 70px 0;
+}
+
+.about h2 {
+    color: #ffe29a;
+    text-align: center;
+    margin: 0;
+    font-size: 45px;
+}
+
+.about p{
+    color: #ffffff;
+    text-align: center;
+    font-size: 18px;
+    padding: 15px 0;
+}
+
+.containerInfo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 70px;
+}
+
+.info {
+    width: 250px;
+    text-align: center;
+}
+
+.info img {
+    width: 90px;
+}
